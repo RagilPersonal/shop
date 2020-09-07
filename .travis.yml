@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "ragilpersonal"
     token:
-      secure: "$SONAR_TOKEN"
+      secure: "750a4e4eb3f5825e864fa79816c6ba63ea0461df"
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
